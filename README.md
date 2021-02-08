@@ -1,2 +1,2 @@
 #Group Repo
-Walter Lambrecht Condensed Matter Theory Group
+##Walter Lambrecht Condensed Matter Theory Group
